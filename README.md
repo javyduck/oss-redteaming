@@ -1,4 +1,4 @@
-# OSS Red-teaming: Prefill Testing for OpenAI GPT-OSS-20B
+# Helpfulness as an Attack Surface: DeeperPrefillJailbreak and Benign Twin Leakage
 
 This directory contains a simplified framework for testing the prefill capabilities of the OpenAI GPT-OSS-20B model against harmful prompts. The testing framework evaluates whether the model can be made to continue harmful responses by prefilling partial assistant responses at various depths.
 
